@@ -1,0 +1,36 @@
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\bin\Debug\net6.0\appsettings.json
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\bin\Debug\net6.0\27_KhuatThiMinhAnh_Repositories.deps.json
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\bin\Debug\net6.0\27_KhuatThiMinhAnh_Repositories.dll
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\bin\Debug\net6.0\27_KhuatThiMinhAnh_Repositories.pdb
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\bin\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.dll
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\bin\Debug\net6.0\27_KhuatThiMinhAnh_DataAccess.dll
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\bin\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.pdb
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\bin\Debug\net6.0\27_KhuatThiMinhAnh_DataAccess.pdb
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\obj\Debug\net6.0\27_KhuatThiMinhAnh_Repositories.csproj.AssemblyReference.cache
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\obj\Debug\net6.0\27_KhuatThiMinhAnh_Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\obj\Debug\net6.0\27_KhuatThiMinhAnh_Repositories.AssemblyInfoInputs.cache
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\obj\Debug\net6.0\27_KhuatThiMinhAnh_Repositories.AssemblyInfo.cs
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\obj\Debug\net6.0\27_KhuatThiMinhAnh_Repositories.csproj.CoreCompileInputs.cache
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\obj\Debug\net6.0\27_KhuatThiMinhAnh_Repositories.csproj.CopyComplete
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\obj\Debug\net6.0\27_KhuatThiMinhAnh_Repositories.dll
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\obj\Debug\net6.0\refint\27_KhuatThiMinhAnh_Repositories.dll
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\obj\Debug\net6.0\27_KhuatThiMinhAnh_Repositories.pdb
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\obj\Debug\net6.0\ref\27_KhuatThiMinhAnh_Repositories.dll
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\bin\Debug\net6.0\appsettings.json
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\bin\Debug\net6.0\27_KhuatThiMinhAnh_Repositories.deps.json
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\bin\Debug\net6.0\27_KhuatThiMinhAnh_Repositories.dll
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\bin\Debug\net6.0\27_KhuatThiMinhAnh_Repositories.pdb
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\bin\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.dll
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\bin\Debug\net6.0\27_KhuatThiMinhAnh_DataAccess.dll
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\bin\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.pdb
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\bin\Debug\net6.0\27_KhuatThiMinhAnh_DataAccess.pdb
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\obj\Debug\net6.0\27_KhuatThiMinhAnh_Repositories.csproj.AssemblyReference.cache
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\obj\Debug\net6.0\27_KhuatThiMinhAnh_Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\obj\Debug\net6.0\27_KhuatThiMinhAnh_Repositories.AssemblyInfoInputs.cache
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\obj\Debug\net6.0\27_KhuatThiMinhAnh_Repositories.AssemblyInfo.cs
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\obj\Debug\net6.0\27_KhuatThiMinhAnh_Repositories.csproj.CoreCompileInputs.cache
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\obj\Debug\net6.0\27_KhuatThiMinhAnh_Repositories.csproj.CopyComplete
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\obj\Debug\net6.0\27_KhuatThiMinhAnh_Repositories.dll
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\obj\Debug\net6.0\refint\27_KhuatThiMinhAnh_Repositories.dll
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\obj\Debug\net6.0\27_KhuatThiMinhAnh_Repositories.pdb
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_Repositories\obj\Debug\net6.0\ref\27_KhuatThiMinhAnh_Repositories.dll

@@ -1,0 +1,30 @@
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\bin\Debug\net6.0\appsettings.json
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\bin\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.deps.json
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\bin\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.runtimeconfig.json
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\bin\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.dll
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\bin\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.pdb
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\obj\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.csproj.AssemblyReference.cache
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\obj\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\obj\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.AssemblyInfoInputs.cache
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\obj\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.AssemblyInfo.cs
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\obj\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\obj\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.dll
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\obj\Debug\net6.0\refint\27_KhuatThiMinhAnh_BusinessObjects.dll
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\obj\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.pdb
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\obj\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.genruntimeconfig.cache
+D:\Data\Learning\8 - Semester 8\PRN231\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\obj\Debug\net6.0\ref\27_KhuatThiMinhAnh_BusinessObjects.dll
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\bin\Debug\net6.0\appsettings.json
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\bin\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.deps.json
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\bin\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.runtimeconfig.json
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\bin\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.dll
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\bin\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.pdb
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\obj\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.csproj.AssemblyReference.cache
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\obj\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\obj\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.AssemblyInfoInputs.cache
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\obj\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.AssemblyInfo.cs
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\obj\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.csproj.CoreCompileInputs.cache
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\obj\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.dll
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\obj\Debug\net6.0\refint\27_KhuatThiMinhAnh_BusinessObjects.dll
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\obj\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.pdb
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\obj\Debug\net6.0\27_KhuatThiMinhAnh_BusinessObjects.genruntimeconfig.cache
+D:\Coding\CSharp\Fun\27_KhuatThiMinhAnh_Assignment01\27_KhuatThiMinhAnh_BusinessObjects\obj\Debug\net6.0\ref\27_KhuatThiMinhAnh_BusinessObjects.dll

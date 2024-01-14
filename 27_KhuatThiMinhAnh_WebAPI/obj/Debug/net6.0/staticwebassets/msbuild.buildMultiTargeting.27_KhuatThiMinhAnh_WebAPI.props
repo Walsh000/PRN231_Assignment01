@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\27_KhuatThiMinhAnh_WebAPI.props" />
+</Project>
